@@ -1,0 +1,66 @@
+.header{
+  font-family: 'Comic Neue', cursive;
+  color: #666666;
+}
+
+body{
+  color: 	#7CFC00;
+  width: 90%;
+  position: relative;
+  left: 500px;
+  /* right: 30px; */
+  background-color: #ffffff;
+}
+
+.center{
+  /* display: block;
+  position: center; */
+  /* left: 0px; */
+  /* margin-left: inherit;
+  margin-right: inherit; */
+  width: 45%
+}
+
+input[type=text] {
+    border: 0px;
+    width: 35%;
+    height: 2em;
+    border-color: #ffe0b3;
+}
+
+input[type=email] {
+    border: 0px;
+    width: 35%;
+    height: 2em;
+    margin: 0;
+}
+
+input[type=number] {
+    border: 0px;
+    width: 35%;
+    height: 2em;
+}
+
+input[type=submit]{
+    color: #ffffff;
+    background-color: #ff9900;
+    width: 35%;
+    height: 38px;t;
+    border-color: #ff9900;
+    text-align: center;
+    font-size: 23px;
+    margin-bottom: 50px;
+    border-radius: 3px;
+    font-family: 'Comic Neue', cursive;
+}
+
+.weight{
+  font-weight: 550;
+  color: #000000;
+  margin: 0;
+}
+
+.heavy{
+  color: #000000 !important;
+  font-weight: 550;
+}
